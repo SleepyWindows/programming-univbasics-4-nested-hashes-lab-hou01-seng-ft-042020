@@ -83,7 +83,8 @@ def adding_matz
     }
 
 end
-
+programmer_hash[:yukihiro_matsumoto] => {}
+programmer_hash
 def changing_alan
   # change what Alan Kay is :known_for to the value of the alans_new_info variable.
   # return the entire updated hash
